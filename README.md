@@ -10,7 +10,7 @@
 
 ---
 
-![que](images/lovecraft-ftp.mp3)
+![que](images/lovecraft-ftp.gif)
 
 ## What is Lovecraft-FTP? 🐙
 
