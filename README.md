@@ -1,7 +1,7 @@
 ![Lovecraft-FTP](images/banner.png)
 
 <div align='center'>
-	<a href='#'><img src='https://img.shields.io/badge/DEMO-Offline-teal?style=for-the-badge'></a>
+	<a href='ftp://username:password@lovecraft-ftp.travis.plus:21'><img src='https://img.shields.io/badge/DEMO-Online-teal?style=for-the-badge'></a>
 	<a href='https://github.com/teamcoltra/lovecraft-ftp/blob/main/LICENSE'><img src='https://img.shields.io/badge/LICENSE-Yo-blue?style=for-the-badge'></a>
 	<p>/|\(;,;)/|\</p>
 </div>
@@ -17,6 +17,12 @@
 Lovecraft-FTP is a playful, virtual FTP server with a fake file system. While it might look like a serious FTP server, it’s more of a honeypot designed for silly pranks and experimentation. It supports basic FTP commands like `USER`, `PASS`, `PWD`, `CWD`, `LIST`, `RETR`, `PASV`, `PORT`, and `QUIT`, and presents a mock file system structure with amusing, randomly generated content.
 
 This project isn’t meant for anything too serious, but you could easily modify it for your own creative pranks or honeypot scenarios.
+
+Use the demo, just use any FTP client and connect to: 
+```
+lovecraft-ftp.travis.plus:21
+```
+TLS is not currently supported, you can use any user/password. 
 
 > [!IMPORTANT]
 > When accessing the virtual pictures folder there is a "porn" folder which generates NSFW movie titles. My use of this program was to see if this directory got more views than other directories (implying manual searching) vs an even spread from bots. That said, that makes this project potentially NSFW. 
