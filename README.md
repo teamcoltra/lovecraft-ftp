@@ -1,4 +1,4 @@
-![Lovecraft-FTP](banner.png)
+![Lovecraft-FTP](images/banner.png)
 
 <div align='center'>
 	<a href='#'><img src='https://img.shields.io/badge/DEMO-Offline-teal?style=for-the-badge'></a>
@@ -10,7 +10,7 @@
 
 ---
 
-<video src="./lovecraft-ftp.webm" controls></video>
+![que](images/lovecraft-ftp.mp3)
 
 ## What is Lovecraft-FTP? 🐙
 
