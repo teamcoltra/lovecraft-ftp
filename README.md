@@ -10,7 +10,7 @@
 
 ---
 
-![que](./lovecraft-ftp.webm)
+<video src="./lovecraft-ftp.webm" controls></video>
 
 ## What is Lovecraft-FTP? 🐙
 
