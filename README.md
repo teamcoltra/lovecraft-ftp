@@ -1,7 +1,7 @@
 ![Lovecraft-FTP](images/banner.png)
 
 <div align='center'>
-	<a href='ftp://username:password@lovecraft-ftp.travis.plus:21'><img src='https://img.shields.io/badge/DEMO-Online-teal?style=for-the-badge'></a>
+	<a href='#'><img src='https://img.shields.io/badge/DEMO-Online-teal?style=for-the-badge'></a>
 	<a href='https://github.com/teamcoltra/lovecraft-ftp/blob/main/LICENSE'><img src='https://img.shields.io/badge/LICENSE-Yo-blue?style=for-the-badge'></a>
 	<p>/|\(;,;)/|\</p>
 </div>
