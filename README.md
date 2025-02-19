@@ -18,6 +18,9 @@ Lovecraft-FTP is a playful, virtual FTP server with a fake file system. While it
 
 This project isn’t meant for anything too serious, but you could easily modify it for your own creative pranks or honeypot scenarios.
 
+> [!IMPORTANT]
+> When accessing the virtual pictures folder there is a "porn" folder which generates NSFW movie titles. My use of this program was to see if this directory got more views than other directories (implying manual searching) vs an even spread from bots. That said, that makes this project potentially NSFW. 
+
 ## What's Needed? 🦑
 
 Currently, Lovecraft-FTP logs all commands in JSON lines format. However, it doesn't handle log rotation. Implementing log rotation or a similar log management system would enhance the project’s reliability over time.
